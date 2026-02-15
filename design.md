@@ -14,7 +14,8 @@
 
 <br/>
 
-**🎯 Team Name:** Bit Verse  
+**🎯 Team Name:** Bit Verse
+
 **👤 Team Leader:** Saudamini Roy
 
 **🎯 Team Members:**
@@ -1099,4 +1100,5 @@ _Empowering Rural India, One Kiosk at a Time_ 🚀
 <img src="https://img.shields.io/badge/💚-With%20Love-green?style=for-the-badge" />
 
 </div>
+
 
